@@ -9,7 +9,8 @@
 | 16/0112028  |  André Goretti Motta |
 
 ## Sobre 
-Este projeto visa reorganizar uma playlist do Spotify baseado em métricas fornecidas pelo próprio serviço, como tempo, "dançabilidade" e positividade das músicas. Desta forma, mesmo em playlists diversificadas, as músicas terão uma "vibe" mais coerente ao agrupar músicas semelhantes. Para isso, foi criado um grafo que calcula a distância entre as músicas com base nas variáveis mencionadas e o algoritmo "Traveling Salesperson Problem" é utilizado para agrupar as músicas de forma eficiente.
+Este projeto visa reorganizar uma playlist do Spotify baseado em métricas fornecidas pelo próprio serviço, como tempo, "dançabilidade" e positividade das músicas. Desta forma, mesmo em playlists diversificadas, as músicas terão uma "vibe" mais coerente ao agrupar músicas semelhantes. Para isso, foi criado um grafo que calcula a distância entre as músicas com base nas variáveis mencionadas e o algoritmo "Traveling Salesperson Problem" é utilizado para agrupar as músicas de forma eficiente.<br/>
+Link para o video de explicação: [Video](https://drive.google.com/file/d/1zwhrjtmKjEQ2FGmefZyhaV75CwdqVlBt/view?usp=share_link)
 
 ## Screenshots
 ![imagem1](image.png)
